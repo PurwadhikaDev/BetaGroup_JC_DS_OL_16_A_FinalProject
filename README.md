@@ -754,3 +754,18 @@ Tier dengan nilai transaksi tertinggi dan churn rate terendah (5.0%):
 [Link to Tableau](https://public.tableau.com/shared/27BMXGT27?:display_count=n&:origin=viz_share_link)
 ![image](https://github.com/PurwadhikaDev/BetaGroup_JC_DS_OL_16_A_FinalProject/blob/306c0b1df35b16cb2d40757c7bc2d07d1c4e5b09/BETA%20A%20DASHBOARD.JPG)
 
+<!-- CONTACT -->
+## Contact
+Muhammad Muhardika Renaldi - muhmahardikar@gmail.com
+- Project Link: [https://github.com/muhmahardikar](https://github.com/muhmahardikar)
+
+Muhammad Daud - muh.daud200@gmail.com
+- Project Link: [https://github.com/daud20](https://github.com/daud20)
+
+Muh Fais Hidayah - faishidayah171@gmail.com
+- Project Link: [https://github.com/faishidayah](https://github.com/faishidayah)
+
+ 
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
