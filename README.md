@@ -752,5 +752,5 @@ Tier dengan nilai transaksi tertinggi dan churn rate terendah (5.0%):
 
 ## Tableau Dashboard
 [Link to Tableau](https://public.tableau.com/shared/27BMXGT27?:display_count=n&:origin=viz_share_link)
-![image]()
+![image](https://github.com/PurwadhikaDev/BetaGroup_JC_DS_OL_16_A_FinalProject/blob/306c0b1df35b16cb2d40757c7bc2d07d1c4e5b09/BETA%20A%20DASHBOARD.JPG)
 
